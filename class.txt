@@ -1,0 +1,9 @@
+1      yuwen     required  100    20   4     10    1615001031 1615001032 1615001033 1615001034 
+2      shuxu     required  100    20   4     10    1615001031 1615001032 1615001033 1615001034 
+3      yingyu    required  100    20   4     10    1615001031 1615001032 1615001033 1615001034 
+4      wuli      elective  30     10   0     10    
+5      huaxue    elective  30     10   0     10    
+6      shengwu   elective  30     10   0     10    
+7      zhengzhi  elective  30     10   0     10    
+8      lishi     elective  30     10   0     10    
+9      dili      elective  30     10   0     10    
